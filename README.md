@@ -16,7 +16,7 @@ Rafael Ferreirinha Quaresma - RM 571949
 
 ---
 
-**1. Problema e Justificativa**
+**Problema e Justificativa**
 
 * **O aumento da frota de veículos elétricos gera um paradoxo:** como carregar todos simultaneamente sem derrubar a rede ou pagar multas altíssimas?
 
