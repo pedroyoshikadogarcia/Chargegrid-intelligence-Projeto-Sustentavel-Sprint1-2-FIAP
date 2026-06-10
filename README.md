@@ -36,7 +36,7 @@ Nossa solução atua em duas frentes principais para garantir a viabilidade do n
 
 ---
 
-** Sprint 2 — Prova de Conceito Funcional (Tinkercad)**
+**Sprint 2 — Prova de Conceito Funcional (Tinkercad)**
 
 Para esta sprint, montamos um protótipo funcional no Tinkercad usando um Arduino Uno para simular o cérebro do nosso eletroposto e provar que a lógica de software funciona.
 
@@ -49,7 +49,7 @@ Para esta sprint, montamos um protótipo funcional no Tinkercad usando um Arduin
 
 ---
 
-** Cenários de Teste e Dados Gerados (Monitor Serial)**
+**Cenários de Teste e Dados Gerados (Monitor Serial)**
 
 O sistema roda a lógica a cada 3 segundos baseado no limite contratado de **45 kW**. Validamos 3 cenários práticos:
 
