@@ -89,6 +89,12 @@ ALERTA: CONTROLE ATIVO ACIONADO! EVITANDO MULTA POR ULTRAPASSAGEM DE DEMANDA.
 
 ---
 
+**Imagem/Diagrama do Circuito**
+
+<img width="1463" height="583" alt="image" src="https://github.com/user-attachments/assets/b7403838-5503-4674-a71a-9da428a7960e" />
+
+---
+
 **Link da Simulação no TinkerCad**
 
 https://www.tinkercad.com/things/itsZgUB0G57-chargegrid-intelligence?sharecode=rEB-arvSr9X3oIVoZrVsbl6MePTDojcdYvYG1lKRfcA
